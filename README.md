@@ -38,5 +38,5 @@ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:<full_path_to_build_folder>
 
 ### Running
 ```
-gazebo UdacityOffice
+gazebo ../world/MichelleWorld
 ```
