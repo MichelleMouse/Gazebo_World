@@ -2,9 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
 
-Welcome to my first project for [Udacity's Robotics Software Engineer Nanodegree]()! In here, I have buildt a Gazebo world for my future projects in the Nanodegree.
+Welcome to my first project for [Udacity's Robotics Software Engineer Nanodegree]()! In here, I have built a Gazebo world for my future projects in the Nanodegree.
 
-The floor plan was inspired from Joyce's House (Stranger Things). 
+The floor plan was inspired from Joyce's House (Stranger Things).
+
+<p align="center"><a href="https://dangerousminds.net/comments/floor_plans_of_the_homes_from_stranger_things_breaking_bad_mr._robot_and_ot"><img src="imgs/StrangerThings-full_465_559_int.jpg" alt="Joyce's house foor plan inspiration" width="300" /></a><img src="imgs/gazeboWorld.png" alt="My gazebo world" width="300" /></p>
 
 ## Environment
 👉 macOS 12.0.1 Monterey with Intel Core i7 chip    
