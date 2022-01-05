@@ -6,7 +6,7 @@ Welcome to my first project for [Udacity's Robotics Software Engineer Nanodegree
 
 The floor plan was inspired from Joyce's House (Stranger Things).
 
-<p align="center"><a href="https://dangerousminds.net/comments/floor_plans_of_the_homes_from_stranger_things_breaking_bad_mr._robot_and_ot"><img src="imgs/StrangerThings-full_465_559_int.jpg" alt="Joyce's house foor plan inspiration" width="300" /></a><img src="imgs/gazeboWorld.png" alt="My gazebo world" width="300" /></p>
+<p align="center"><a href="https://dangerousminds.net/comments/floor_plans_of_the_homes_from_stranger_things_breaking_bad_mr._robot_and_ot"><img src="imgs/StrangerThings-full_465_559_int.jpg" alt="Joyce's house foor plan inspiration" width="200" /></a><img src="imgs/gazeboWorld.png" alt="My gazebo world" width="500" /></p>
 
 ## Environment
 👉 macOS 12.0.1 Monterey with Intel Core i7 chip    
